@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Personal Team Project Process Report"
 date: 2020-11-21
 excerpt: "Report of team project process"
