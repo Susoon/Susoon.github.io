@@ -9,8 +9,6 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://susoon.github.io
-username:           Susoon
-
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -41,7 +39,7 @@ google:				tnghks9735
 email:				tnghks9735@g.skku.edu
 #twitter:            username
 #facebook:           username
-github-url:         username
+github-url:         Susoon
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
